@@ -1,4 +1,4 @@
-### Olá! 👋
+### Hello! My name's Daniela and I'm a software developer 👋
 
 <div align="center">
   <a href="https://github.com/danimamede">
