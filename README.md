@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/danimamede">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danimamede&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimamede&layout=compact&langs_count=7&theme=vue" style="max-width: 100%;/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=danimamede&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimamede&layout=compact&langs_count=7&theme=vue"/>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python 3.8" align="center">
