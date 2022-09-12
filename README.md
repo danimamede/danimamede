@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/danimamede">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=danimamede&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=danimamede&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
     
-  <img width="54%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimamede&layout=compact&langs_count=7&theme=vue"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimamede&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 <div style="display: inline_block"><br>
