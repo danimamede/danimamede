@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" align="center">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986288117789126716/1017915440476979220/WhatsApp_Image_2022-09-09_at_18.52.05.jpeg">
+  <img align="right" alt="Dani" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986288117789126716/1017915440476979220/WhatsApp_Image_2022-09-09_at_18.52.05.jpeg">
 </div>
    
   ##
