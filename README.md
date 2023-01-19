@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" align="center">
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" align="center">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="TypeScript" align="center">
+     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/e16215c1ac599007cb0e3da5c3e1871811b32472/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" width="36" height="36" alt="SpringBoot" align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/00e630b3219eab79b935d1afbcca4f3218891e8c/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/e16215c1ac599007cb0e3da5c3e1871811b32472/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" align="center">
