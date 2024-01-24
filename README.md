@@ -15,7 +15,7 @@
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/profileme-dev/e16215c1ac599007cb0e3da5c3e1871811b32472/public/icons/skills/angularjs-colored.svg" >
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
-  <img align="right" alt="Dani" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986288117789126716/1017915440476979220/WhatsApp_Image_2022-09-09_at_18.52.05.jpeg">
+  <img align="right" alt="Dani" height="150" style="border-radius:50px;" src="chibi_dani.png">
 </div>
    
   ##
